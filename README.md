@@ -29,7 +29,7 @@ Oi! Eu sou **Luis Carlos**, estudante de programação do Brasil, atualmente no 
 - Criação de **protótipos IoT** para automação residencial e pequenos projetos de automação.  
 - Experiência em **desenvolvimento de software**, web e aplicações com banco de dados.  
 - Participação em **competições de programação**:  
-  - **4ª Fase Zero da Maratona de Programação**
+  - **4ª Fase Zero da Maratona de Programação 2025**
   - **Primeira Fase – Maratona SBC de Programação 2025**
 
 ---
