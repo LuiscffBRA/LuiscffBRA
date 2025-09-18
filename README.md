@@ -1,31 +1,31 @@
-# Hi there 👋
+# Olá 👋
 
-## 👨‍💻 About Me
-Hi! I'm **Luis Carlos**, a programming student from Brazil, currently in my 4th semester at UFRN – EAJ. My main focus is **Embedded Systems**, **Arduino**, **microcontrollers**, and **IoT projects**, while also exploring full-stack development, web, and software engineering. I enjoy creating projects that integrate **hardware and software**, applying programming logic to control physical devices.  
+## 👨‍💻 Sobre mim
+Oi! Eu sou **Luis Carlos**, estudante de programação do Brasil, atualmente no 4º semestre da UFRN – EAJ. Meu foco principal é **Sistemas Embarcados**, **Arduino**, **microcontroladores** e **projetos de IoT**, mas também me dedico a desenvolvimento web e engenharia de software. Gosto de criar projetos que integrem **hardware e software**, aplicando lógica de programação para controlar dispositivos físicos.  
 
-- 🎯 **Current focus:** Arduino, ESP32, Raspberry Pi, sensors, actuators, and automation systems.  
-- 💡 **Passion:** Bridging code and real-world hardware with innovative embedded solutions.  
-- 📚 **Learning:** C, C++, Python, electronics, and software development best practices.  
+- 🎯 **Foco atual:** Arduino, ESP32, Raspberry Pi, sensores, atuadores e sistemas de automação.  
+- 💡 **Paixão:** Conectar código e hardware do mundo real com soluções embarcadas inovadoras.  
+- 📚 **Aprendizado contínuo:** C, C++, Python, eletrônica e boas práticas de desenvolvimento de software.  
 
-## ⚙️ Skills & Tech Stack
+## ⚙️ Habilidades & Tecnologias
 
-**Embedded Systems & Hardware:** Arduino, ESP32, Raspberry Pi, microcontrollers, IoT integration, sensors, actuators, hardware-software interfacing  
-**Programming & Software:** C, C++, Python, Dart, Java, JavaScript, TypeScript, OOP, Algorithms, Data Structures  
-**Databases & Web:** SQL, MySQL, SQLite, basic web development  
-**Tools & Platforms:** Git, GitHub, Arduino IDE, PlatformIO, VS Code, Figma, Blender, Docker  
+**Sistemas Embarcados & Hardware:** Arduino, ESP32, Raspberry Pi, microcontroladores, integração IoT, sensores, atuadores, interface hardware-software  
+**Programação & Software:** C, C++, Python, Dart, Java, JavaScript, TypeScript, OOP, Algoritmos, Estruturas de Dados  
+**Banco de Dados & Web:** SQL, MySQL, SQLite, desenvolvimento web básico  
+**Ferramentas & Plataformas:** Git, GitHub, Arduino IDE, PlatformIO, VS Code, Figma, Blender, Docker  
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-## 📂 Projects & Experience
-- Completed **Embedded Systems courses** at EmbarcaTech.  
-- Developed **Arduino and microcontroller projects**, integrating sensors, actuators, and control logic.  
-- Created **IoT prototypes** for home automation and small-scale automation projects.  
-- Experience in **software development projects**, web, and database applications.  
+## 📂 Projetos & Experiência
+- Conclusão de **cursos de Sistemas Embarcados** na EmbarcaTech.  
+- Desenvolvimento de **projetos pessoais com Arduino e microcontroladores**, integrando sensores, atuadores e lógica de controle.  
+- Criação de **protótipos IoT** para automação residencial e pequenos projetos de automação.  
+- Experiência em **desenvolvimento de software**, web e aplicações com banco de dados.  
 
-## 🌐 Socials
+## 🌐 Redes & Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-carlos-717465237/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luiscff791@gmail.com)
 
@@ -40,10 +40,10 @@ Hi! I'm **Luis Carlos**, a programming student from Brazil, currently in my 4th 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LuiscffBRA&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Frase Aleatória de Dev
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 Repositórios Mais Contribuídos
 ![](https://github-contributor-stats.vercel.app/api?username=LuiscffBRA&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
