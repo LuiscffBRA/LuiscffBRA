@@ -33,6 +33,10 @@ Oi! Eu sou **Luis Carlos**, estudante de programação do Brasil, atualmente no 
   - **Primeira Fase – Maratona SBC de Programação 2025**
 
 ---
+## 📊 Linguagens mais usadas
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuiscffBRA&theme=gruvbox&hide_border=false&layout=compact&langs_count=8)
+
+---
 
 ## 🌐 Redes & Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-carlos-717465237/) 
