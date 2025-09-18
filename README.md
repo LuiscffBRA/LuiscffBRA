@@ -12,7 +12,7 @@ Oi! Eu sou **Luis Carlos**, estudante de programação do Brasil, atualmente no 
 ## ⚙️ Habilidades & Tecnologias
 
 **Sistemas Embarcados & Hardware:** Arduino, ESP32, Raspberry Pi, microcontroladores, integração IoT, sensores, atuadores, interface hardware-software  
-**Programação & Software:** C, C++, Python, Dart, Java, JavaScript, TypeScript, OOP, Algoritmos, Estruturas de Dados  
+**Programação & Software:** C, C++, Python, Dart, Java, JavaScript, TypeScript, POO, Algoritmos, Estruturas de Dados  
 **Banco de Dados & Web:** SQL, MySQL, SQLite, desenvolvimento web básico  
 **Ferramentas & Plataformas:** Git, GitHub, Arduino IDE, PlatformIO, VS Code, Figma, Blender, Docker  
 
