@@ -1,5 +1,50 @@
-# 💫 About Me:
-Luis Carlos – Estudante de Programação | Foco em Sistemas Embarcados<br><br>Sobre mim:<br>Estudante de Programação na UFRN – EAJ (4º período), com interesse especial em sistemas embarcados, microcontroladores e IoT. Busco desenvolver projetos que integrem hardware e software, aplicando conceitos de programação, lógica e controle de dispositivos físicos.<br><br>Áreas de atuação e habilidades:<br><br>Programação: Algoritmos, Programação Orientada a Objetos (POO), Estruturas de Dados, Programação Visual e Web.<br><br>Sistemas Embarcados: Arduino, microcontroladores, integração hardware-software, automação básica.<br><br>Banco de Dados e Web: Modelagem de dados, SQL, desenvolvimento web e autoria visual.<br><br>Desenvolvimento de Software: Análise e Projeto Orientado a Objetos, Processos de Desenvolvimento, Gestão da Qualidade de Software.<br><br>Sistemas e Redes: Conceitos de Sistemas Operacionais e Redes de Computadores.<br><br>Matemática e Lógica aplicada à programação: Raciocínio Lógico, Estatística e Matemática Aplicada.<br><br>Experiência e projetos:<br><br>Participação em cursos de sistemas embarcados na EmbarcaTech.<br><br>Desenvolvimento de projetos pessoais com Arduino e microcontroladores, integrando lógica de programação e controle físico de dispositivos.<br><br>Objetivo:<br>Aprimorar minhas habilidades em sistemas embarcados e desenvolvimento de software, contribuindo para projetos que envolvam hardware, software e inovação tecnológica.
+# Hi there 👋
+
+## 👨‍💻 About Me
+Hi! I'm **Luis Carlos**, a programming student from Brazil, currently in my 4th semester at UFRN – EAJ. My main focus is **Embedded Systems**, **microcontrollers**, and **IoT projects**. I enjoy creating projects that integrate **hardware and software**, applying programming logic to control physical devices.
+
+- 🎯 **Current focus:** Arduino, ESP32, Raspberry Pi, sensors, actuators, and basic automation systems.  
+- 💡 **Passion:** Bridging the gap between code and real-world hardware, exploring innovative embedded solutions.  
+- 📚 **Learning:** Continually improving my skills in C, C++, Python, and electronics for embedded systems.
+
+## ⚙️ Skills & Tech Stack
+
+**Programming & Software:** C, C++, Python, Dart, Java, JavaScript, TypeScript, OOP, Data Structures, Algorithms  
+**Embedded Systems:** Arduino, ESP32, Raspberry Pi, microcontrollers, IoT integration, hardware-software interfacing  
+**Databases & Web:** SQL, MySQL, SQLite, basic web development  
+**Tools & Platforms:** Git, GitHub, Arduino IDE, PlatformIO, VS Code, Figma, Blender  
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+## 📂 Projects & Experience
+- Completed **Embedded Systems courses** at EmbarcaTech.  
+- Developed **personal Arduino projects** integrating sensors, actuators, and control logic.  
+- Created **IoT prototypes** for home automation and small-scale automation projects.  
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-carlos-717465237/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luiscff791@gmail.com)
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=LuiscffBRA&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LuiscffBRA&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuiscffBRA&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LuiscffBRA&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=LuiscffBRA&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=LuiscffBRA&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 ## 🌐 Socials:
